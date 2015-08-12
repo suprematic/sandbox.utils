@@ -1,0 +1,3 @@
+Build jar:
+`lein uberjar`
+
